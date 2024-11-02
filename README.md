@@ -16,7 +16,7 @@
   Goals Against (GA)  and
   + / -
   [Download the Document](https://drive.google.com/file/d/1xdRNnBLq8fNvQyLrWuX-M1d4F3TRXJGO/view?usp=drive_link)
-  to see extracted data in excel formart
+  to see extracted data in excel formart csv format
 
 
   ##  COVID-19 pandemic death rates by country
@@ -30,3 +30,4 @@
       
       [Download the Document](https://drive.google.com/file/d/1nNapC27RB_IHFebuwVRgbFERlYOE4ip7/view?usp=drive_link)
       to see extracted data in excel csv formart
+

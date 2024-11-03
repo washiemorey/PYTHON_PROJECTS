@@ -18,7 +18,7 @@
   + / -
 
  [Download the Document](https://drive.google.com/file/d/1xdRNnBLq8fNvQyLrWuX-M1d4F3TRXJGO/view?usp=drive_link)
-  to see extracted data in formart csv format
+  to see extracted data in excel csv format
 
 
    ## COVID-19 Pandemic Death Rates By Cuntry
